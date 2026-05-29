@@ -114,7 +114,7 @@ form .campo {
   border: none;
   border-radius: 8px;
   width: calc(100% - 45px);
-  transform: translateY(-12.5px);
+  transform: translateY(-13px);
 }
 
 .campo > input:focus-within {
